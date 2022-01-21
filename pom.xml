@@ -18,7 +18,8 @@
         <module>clients</module>
 		<module>notifications</module>
         <module>apigw</module>
-    </modules>
+		<module>amqp</module>
+	</modules>
 
 	<properties>
 		<java.version>17</java.version>
